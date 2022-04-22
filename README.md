@@ -19,7 +19,7 @@ The program is  tested with Python 3.9. and requires the libraries pygame and nu
 To start the app just execute the [main.py](https://github.com/daviBera/Chaos_game/blob/main/main.py) file.
 
 ## Usage
-To create your first fractal just place some vertecis by clicking with the mouse and press 'SPACE'. Press 'SPACE' again to do draw more points of the fractal.
+To create your first fractal just place some vertecis by clicking with the mouse and press 'SPACE'.
 To create a regular poligon use the numeric keyboard or the ➕➖ buttons in the setting window.
 You can interact with the object in different ways:
 - Drag the vertices
@@ -29,5 +29,6 @@ You can interact with the object in different ways:
 - Change the way in which the sequence of points is constructed by selecting some circles in the "circle of circles" you find in the setting window
 - From the setting window you can also change the colors of the fractals and use some presets (with the button 'S' you can add a new preset)
 - Change the background from night_mode to day_mode and viceversa by pressing 'B'
+- Draw more points of the fractal by pressing 'SPACE' again
 
 You can find the explanation of how the fractal is generated in [explanation.md](https://github.com/daviBera/Chaos_game/blob/main/expalnation.md)
