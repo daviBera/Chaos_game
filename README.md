@@ -5,6 +5,7 @@ This project was born to create images for a document about the chaos game.
 ## Examples
 <img src="/images/sierp_white.png" height="200"></img>
 <img src="/images/6_Biter_white.png" height="200"></img>
+
 <img src="/images/5H2BigIter.png" height="200"></img>
 <img src="/images/5black&white.png" height="200"></img>
 
