@@ -1,4 +1,4 @@
-# thath's the main script. Execute this script to start the app.
+# that's the main script. Execute this script to start the app.
 
 import random
 import pygame
