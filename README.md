@@ -17,7 +17,7 @@ This project was born to create images for a document about the chaos game.
 
 ## Getting started
 Download and extract the zip file.
-The program is  tested with Python 3.9 and requires the libraries pygame and numpy.
+The program is  tested with Python 3.9 and requires the libraries pygame (2.1.0) and numpy (1.20.3).
 To start the app just execute the [main.py](https://github.com/daviBera/Chaos_game/blob/main/main.py) file.
 
 ## Usage
