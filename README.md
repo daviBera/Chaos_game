@@ -15,7 +15,7 @@ This project was born to create images for a document about the chaos game.
 ## Getting started
 Download and extract the zip file.
 The program is  tested with Python 3.9. and requires the libraries pygame and numpy.
-To start the app just execute the main.py file.
+To start the app just execute the [main.py](https://github.com/daviBera/Chaos_game/blob/main/main.py) file.
 
 ## Usage
 To create your first fractal just place some vertecis by clicking with the mouse and press 'SPACE'. Press 'SPACE' again to do draw more points of the fractal.
