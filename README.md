@@ -1,2 +1,3 @@
 # Chaos_game
-Repository for a Chaos Game interactive python application.
+An interactive application to create and paly with fractals.
+
