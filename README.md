@@ -33,4 +33,4 @@ You can interact with the object in different ways:
 - Change the background from night_mode to day_mode and viceversa by pressing 'B'
 - Draw more points of the fractal by pressing 'SPACE' again
 
-You can find the explanation of how the fractal is generated in [explanation.md](https://github.com/daviBera/Chaos_game/blob/main/expalnation.md)
+You can find the explanation of how the fractal is generated in [explanation.md](https://github.com/daviBera/Chaos_game/blob/main/explanation.md)
