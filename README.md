@@ -28,8 +28,8 @@ You can interact with the object in different ways:
 - Add a vertex by clicking with the mouse
 - Change the parameter alpha by pressing the keys 'N' or 'M'
 - Zoom in and out by pressing the keys 'Q' and 'E' and traslate by pressing 'A', 'D, 'W', 'S'.
-- Change the way in which the sequence of points is constructed by selecting some circles in the "circle of circles" you find in the setting window
-- From the setting window you can also change the colors of the fractals and use some presets (with the button 'S' you can add a new preset)
+- Change the way in which the fractal is constructed by selecting some circles in the "circle of circles" you find in the setting window
+- From the setting window you can also change the colors of the fractals and use some presets (with the button 'S' you can add the current state in the presets)
 - Change the background from night_mode to day_mode and viceversa by pressing 'B'
 - Draw more points of the fractal by pressing 'SPACE' again
 
