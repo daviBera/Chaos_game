@@ -267,6 +267,9 @@ class Game:
         # whith 'I' the game is reinitialised
         elif keys[pygame.K_i]:
             self.init_variables()
+
+        elif keys[pygame.K_u]:
+            self.ChaosG.change_vertices(self.ChaosG.num_vertices+100, self.width, self.height)
             
         # whith numeric keyboard a gìregular polygon is created
         elif 1 <= event.key - 1073741912 <= 9:
