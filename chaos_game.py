@@ -133,7 +133,7 @@ class ChaosGame:
         self.alpha = float(my_preset[1])
         self.memory = int(my_preset[2])
         self.color_mode = int(my_preset[3])
-        if my_preset[4] == '\n':
+        if my_preset[4] == '\n' or my_preset[4] == '':
             self.excluded_vertices = []
         else:
             self.excluded_vertices = [int(vertex) for vertex in my_preset[4].rsplit(", ")]
